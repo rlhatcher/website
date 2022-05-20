@@ -24,6 +24,14 @@ interests:
   - Ground Support Electronics
   - Autonomous Recovery 
 
+# Certification to show in About widget
+certification:
+  certificates:
+  - certificate: Project Management Professional (PMP)
+    institution: Project Management Institute
+    validity: December 2024
+    link: https://www.credly.com/badges/4768fdc4-a22e-43b3-bf48-973eeb1bebc4/linked_in_profile
+
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
