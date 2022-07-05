@@ -1,6 +1,4 @@
 ---
-# Documentation: https://wowchemy.com/docs/managing-content/
-
 title: "All the Fat Boys"
 summary: "A project focused on up and down scaling the Estes Fat Boy model rocket."
 authors: []
@@ -24,6 +22,10 @@ links:
   url: https://github.com/rlhatcher/fatboys
   icon_pack: fab
   icon: github
+- name: Videos
+  url: https://youtube.com/rlhatcher/fatboys
+  icon_pack: fab
+  icon: youtube
 
 url_code: ""
 url_pdf: ""
@@ -37,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+The Fat Boy was a model rocket kit manufactured by [Estes](https://estesrockets.com) until 2005 when production ceased. The currently available version is the Fat Boy Mini, which - as the name implies - is a smaller rocket and uses mini (13mm) motors.
+
+At our annual club event, my wife built and flew the mini version and really enjoyed it.
+
