@@ -19,7 +19,7 @@ image:
 
 links:
 - name: Project Files
-  url: https://github.com/rlhatcher/fatboys
+  url: https://github.com/rlhatcher/fat-boys
   icon_pack: fab
   icon: github
 - name: Videos
