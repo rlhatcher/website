@@ -3,7 +3,7 @@ widget: pages
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Recent Blog Posts
+title: Recent Posts
 subtitle: ''
 
 # Position of this section on the page
@@ -34,7 +34,5 @@ design:
   # Choose a listing view
   view: compact
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
 ---
-
-Check out my recent blog posts below!
