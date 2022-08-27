@@ -11,7 +11,7 @@ headless: true
 weight: 30
 
 title: Projects
-subtitle: Ongoing developments
+subtitle: and ongoing developments
 
 content:
   # Page type to display. E.g. project.
@@ -36,7 +36,7 @@ content:
       tag: Computing
 
 design:
-  columns: '2'
+  columns: '1'
   view: masonry
   flip_alt_rows: true
   background: {color: dark-grey}
