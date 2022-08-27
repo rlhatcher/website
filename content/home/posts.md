@@ -3,8 +3,8 @@ widget: pages
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Recent Posts
-subtitle: ''
+title: Posts
+subtitle: Latest project updates
 
 # Position of this section on the page
 weight: 20
@@ -23,7 +23,7 @@ content:
     exclude_future: false
     exclude_past: false
   # Choose how many pages you would like to display (0 = all pages)
-  count: 10
+  count: 5
   # Choose how many pages you would like to offset by
   # Useful if you wish to show the first item in the Featured widget
   offset: 0
