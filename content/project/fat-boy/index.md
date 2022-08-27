@@ -2,8 +2,8 @@
 title: "All the Fat Boys"
 summary: "A project focused on up and down scaling the Estes Fat Boy model rocket."
 authors: []
-tags: [up-scale]
-categories: [rockets]
+tags: [Rockets]
+categories: []
 date: 2022-07-05T23:55:02+01:00
 
 # Optional external URL for project (replaces project detail page).
@@ -18,6 +18,8 @@ image:
   preview_only: false
 
 links:
+- name: Documents
+  url: /document/fatboys
 - name: Project Files
   url: https://github.com/rlhatcher/fat-boys
   icon_pack: fab
