@@ -18,6 +18,11 @@ image:
   focal_point: ""
   preview_only: false
 
+links:
+  - icon_pack: fas
+    icon: book
+    name: Documents
+    url: 'document/builds/v2'
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 # links:
