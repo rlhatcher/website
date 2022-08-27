@@ -1,9 +1,9 @@
 ---
-title: Builds
+title: Rocket Builds
 type: book
 icon_pack: fas
 icon: hammer
-weight: 190
+weight: 10
 ---
 
 ## Things that I've built
