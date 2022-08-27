@@ -8,10 +8,10 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 30
 
-title: ''
-subtitle: ''
+title: Projects
+subtitle: Ongoing developments
 
 content:
   # Page type to display. E.g. project.
@@ -36,9 +36,9 @@ content:
       tag: Computing
 
 design:
-  columns: '1'
+  columns: '2'
   view: masonry
   flip_alt_rows: true
-  background: {}
+  background: {color: dark-grey}
   spacing: {padding: [0, 0, 0, 0]}
 ---

@@ -1,7 +1,6 @@
 # Appearance
 i_am_a_sponsor: true 
 appearance:
-  theme_day: custom
   theme_night: custom
   font: minimal
   font_size: L
@@ -30,7 +29,7 @@ header:
     align: r
     show_logo: false
     show_language: false
-    show_day_night: true
+    show_day_night: false
     show_search: true
     highlight_active_link: false
 
@@ -62,7 +61,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/rlhatcher/website'
     content_dir: content
     branch: main
   avatar:
