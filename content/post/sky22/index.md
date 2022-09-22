@@ -27,3 +27,49 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+## Midland Sky 2022 Launch
+
+```python
+import numpy as np
+from bokeh.plotting import figure, show, output_notebook
+from bokeh.models import LinearAxis, Range1d
+```
+
+```python
+data_file = "220918_midland_sky.csv"
+output_notebook()
+```
+
+<div class="bk-root">
+        <a href="https://bokeh.org" target="_blank" class="bk-logo bk-logo-small bk-logo-notebook"></a>
+        <span id="2337">Loading BokehJS ...</span>
+    </div>
+
+```python
+d = np.loadtxt(data_file, delimiter=",", dtype=float)
+x = d[:,0]
+y = d[:,1]
+v = d[:,2]
+
+# create a new plot with a title and axis labels
+p = figure(title="Flight data", x_axis_label='time', y_axis_label='altitude')
+
+p.circle(x, y, legend_label="flight", color="red", line_width=.5)
+p.extra_y_ranges = {"gee": Range1d(start=-7, end=7)}
+p.line(x, v, legend_label="gforce", color="blue", line_width=1, y_range_name="gee")
+p.add_layout(LinearAxis(y_range_name="gee"), 'left')
+show(p)
+```
+
+
+
+<div class="bk-root" id="bd97cab6-c970-47c7-890a-e080d330b30e" data-root-id="6875"></div>
+
+
+
+
+
+
+```python
+
+```
