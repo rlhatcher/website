@@ -4,8 +4,8 @@
   #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Documents
-    url: /document
+  - name: Builds
+    url: /build
     weight: 10
   - name: Projects
     url: /#portfolio
