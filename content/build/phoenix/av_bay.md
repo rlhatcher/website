@@ -1,6 +1,5 @@
 ---
-title: "AV Bay"
-linktitle: "AV Bay"
+title: "AV Bay Detail"
 toc: true
 type: book
 date: "2021-05-05T00:00:00+01:00"
@@ -10,5 +9,3 @@ banner:
 ---
 
 ![cutaway](AV_bay_v17.png "cutaway")
-
-## Design topics

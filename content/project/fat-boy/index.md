@@ -45,4 +45,3 @@ slides: ""
 The Fat Boy was a model rocket kit manufactured by [Estes](https://estesrockets.com) until 2005 when production ceased. The currently available version is the Fat Boy Mini, which - as the name implies - is a smaller rocket and uses mini (13mm) motors.
 
 At our annual club event, my wife built and flew the mini version and really enjoyed it.
-
