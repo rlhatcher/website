@@ -2,7 +2,7 @@ name = "Ronald Hatcher Blog"
 
 [dark]
   primary = "#944ddb"
-  link = "#ffffff"
+  link = "#F5BD1F"
   link_hover = "#bbdefb"
   background = "rgb(26, 32, 44)"
   home_section_even = "rgb(26, 32, 44)"

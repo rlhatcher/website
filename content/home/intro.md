@@ -19,4 +19,4 @@ author: admin
 ---
 
 👋 Hey, there! I'm **Ron**, a technologist and amateur rocketry enthusiast.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background: #FFE863; background: linear-gradient(to right, #FFD93D 0%, #F5BD1F 30%, #8736AA 60%, #8736AA 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
