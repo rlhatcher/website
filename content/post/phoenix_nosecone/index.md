@@ -1,11 +1,11 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Phoenix_nosecone"
-subtitle: ""
+title: "Phoenix Nosecone"
+subtitle: "Fabricating a scale-accurate Phoenix nose cone"
 summary: ""
 authors: []
-tags: []
+tags: [phoenix]
 categories: []
 date: 2022-12-24T02:19:33Z
 lastmod: 2022-12-24T02:19:33Z
@@ -16,14 +16,11 @@ draft: false
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Comparison with ogive shape"
+  focal_point: "smart"
   preview_only: false
 
-# Projects (optional).
-#   Associate this post with one or more of your projects.
-#   Simply enter your project's folder or file name without extension.
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
-#   Otherwise, set `projects = []`.
 projects: [phoenix]
 ---
+
+Von Kármán
