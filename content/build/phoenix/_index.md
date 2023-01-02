@@ -14,7 +14,7 @@ banner:
 
 ## Introduction
 
-This build is based on the [LOC Precision kit](https://loc.com) of the Phoenix missile with some alterations I've made to get as close as possible to 1:2 scale. This section provides a general overview of the build process and approach and I have provided separate sections to dig into the details of several areas.
+This build is based on the [LOC Precision kit](https://locprecision.com/collections/rockets-skill-level-expert/products/phoenix-75) of the Phoenix missile with some alterations I've made to get as close as possible to 1:2 scale. This section provides a general overview of the build process and approach and I have provided separate sections to dig into the details of several areas.
 
 ## Fin can
 
