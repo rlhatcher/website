@@ -10,3 +10,4 @@ go.sum
 .hugo_build.lock
 **/.DS_Store
 assets/media/albums/.DS_Store
+content/post/.DS_Store
